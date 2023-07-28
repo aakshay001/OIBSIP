@@ -1,4 +1,5 @@
-# OIBSIP
+# OIBSIP (Oisis InfoByte Summer Internship Program)
+
 Data Science Internship @ Oasis InfoByte  July - August 2023
 
 
