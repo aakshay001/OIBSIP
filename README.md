@@ -8,6 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/91726340/223084244-e559a3d6-0e3d-4625-b2d2-245337ec5d9d.png)
 
+[Internship Offer Letter](https://github.com/aakshay001/OIBSIP/files/12327641/Akshay.Saini.Offer.Letter.pdf)
 ## About
 This is a repository for the projects completed during the Data Science internship at Oasis Infobyte.
 
