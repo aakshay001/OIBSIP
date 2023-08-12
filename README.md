@@ -16,4 +16,5 @@ The projects are as follows:
 
 1. [Iris Flower Classification](/Iris_Flower_Classification/README.md)
 2. [Car Price Prediction with Machine Learning](/Car_Price_Prediction_with_Machine_Learning/README.md)
-3. [Sales Prediction with Python](/Sales_Prediction/README.md)
+3. [Email Spam Detection](/Email_Spam_Detection/README.md)
+4. [Sales Prediction with Python](/Sales_Prediction/README.md)
