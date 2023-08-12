@@ -14,5 +14,5 @@ This is a repository for the projects completed during the Data Science internsh
 The projects are as follows:
 
 1. [Iris Flower Classification](/Iris_Flower_Classification/README.md)
-2. [Unemployment Analysis with Python](/Unemployment_Analysis/README.md)
+2. [Car Price Prediction with Machine Learning](/Car Price Prediction with Machine Learning/README.md)
 3. [Sales Prediction with Python](/Sales_Prediction/README.md)
