@@ -10,5 +10,5 @@ The Iris flower dataset is a multivariate data set introduced by the British sta
 ## Program
 The program in this repository uses the scikit-learn machine learning library to build a decision tree classifier to classify Iris flowers. The program first loads the Iris flower dataset from a CSV file. Then, it splits the dataset into a training set and a test set. The training set is used to train the Logistic Regression classifier. The test set is used to evaluate the accuracy of the classifier.
 
-The program prints the accuracy of the Logistic Regression classifier on the test set. The accuracy is typically around 93%.
+The program prints the accuracy of the Logistic Regression classifier on the test set. The accuracy is typically around 95%.
 
